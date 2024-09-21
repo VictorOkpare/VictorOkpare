@@ -11,5 +11,5 @@ I'm a  web developer and a prospective software Engineer( I can argue I'm one al
 
 Here are some 🌟 Featured Projects
   -  E-commerce Store: A fully functional online store for plain t-shirts, featuring product customization, user authentication, and a seamless shopping experience. [Check it out here](https://otellastore.vercel.app)
-    - Car hailing website: A static car hailing website employing only frontend technology in the development of this site.  [Check it out here](https://quicklift2-7uch.vercel.app)
+    - Car hailing website: A static car hailing website employing only frontend technology in the development of this site.  [Check it out here](https://quicklift2-7uch.vercel.app) -->
 
