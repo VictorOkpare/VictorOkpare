@@ -4,7 +4,7 @@
 I'm a  web developer and a prospective software Engineer( I can argue I'm one already😑 but you will not believe 😅 feel free to go through my repo). Ive got a knack for solving complex problems and im currently pursuing a degree in Software Engineering at Miva Open University and i have experience in builing full stack application with modern technologies.
 
 🔧 Tech Stack
-  -  ** Frontend**: React, JavaScript, HTML5, CSS3, TailwindCSS
+  -  **Frontend**: React, JavaScript, HTML5, CSS3, TailwindCSS
   -  **Backend** : Django, Django Rest Framework, Python
   -  **Database**: PostgreSQL, MySQL, SQLite
   -  **Tools & Platforms**: Git, GitHub, Vercel, Render
